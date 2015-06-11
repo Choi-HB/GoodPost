@@ -1,0 +1,693 @@
+fileFormatVersion: 2
+guid: 70021fb4d9ae28440a1e85262261a15f
+timeCreated: 1433836940
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: button66_0
+    21300002: button66_1
+    21300004: button66_2
+    21300006: button66_3
+    21300008: button66_4
+    21300010: button66_5
+    21300012: button66_6
+    21300014: button66_7
+    21300016: button66_8
+    21300018: button66_9
+    21300020: button66_10
+    21300022: button66_11
+    21300024: button66_12
+    21300026: button66_13
+    21300028: button66_14
+    21300030: button66_15
+    21300032: button66_16
+    21300034: button66_17
+    21300036: button66_18
+    21300038: button66_19
+    21300040: button66_20
+    21300042: button66_21
+    21300044: button66_22
+    21300046: button66_23
+    21300048: button66_24
+    21300050: button66_25
+    21300052: button66_26
+    21300054: button66_27
+    21300056: button66_28
+    21300058: button66_29
+    21300060: button66_30
+    21300062: button66_31
+    21300064: button66_32
+    21300066: button66_33
+    21300068: button66_34
+    21300070: button66_35
+    21300072: button66_36
+    21300074: button66_37
+    21300076: button66_38
+    21300078: button66_39
+    21300080: button66_40
+    21300082: button66_41
+    21300084: button66_42
+    21300086: button66_43
+    21300088: button66_44
+    21300090: button66_45
+    21300092: button66_46
+    21300094: button66_47
+    21300096: button66_48
+    21300098: button66_49
+    21300100: button66_50
+    21300102: button66_51
+    21300104: button66_52
+    21300106: button66_53
+    21300108: button66_54
+    21300110: button66_55
+    21300112: button66_56
+    21300114: button66_57
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: button66_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 472
+        width: 123
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: button66_1
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 472
+        width: 123
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: button66_2
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 472
+        width: 123
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: button66_3
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 442
+        width: 123
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: button66_4
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 442
+        width: 123
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: button66_5
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 442
+        width: 123
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: button66_6
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 411
+        width: 123
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: button66_7
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 411
+        width: 123
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: button66_8
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 411
+        width: 123
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: button66_9
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 380
+        width: 123
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: button66_10
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 380
+        width: 123
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: button66_11
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 380
+        width: 123
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: button66_12
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 350
+        width: 123
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: button66_13
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 350
+        width: 123
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: button66_14
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 350
+        width: 123
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: button66_15
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 320
+        width: 123
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: button66_16
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 320
+        width: 123
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: button66_17
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 320
+        width: 123
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: button66_18
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 289
+        width: 123
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: button66_19
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 289
+        width: 123
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: button66_20
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 289
+        width: 123
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: button66_21
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 259
+        width: 123
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: button66_22
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 259
+        width: 123
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: button66_23
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 260
+        width: 123
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: button66_24
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 230
+        width: 123
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: button66_25
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 230
+        width: 123
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: button66_26
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 230
+        width: 123
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: button66_27
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 203
+        width: 123
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: button66_28
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 202
+        width: 123
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: button66_29
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 201
+        width: 123
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: button66_30
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 171
+        width: 123
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: button66_31
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 172
+        width: 123
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: button66_32
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 173
+        width: 123
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: button66_33
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 142
+        width: 123
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: button66_34
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 141
+        width: 123
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: button66_35
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 143
+        width: 123
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: button66_36
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 113
+        width: 123
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: button66_37
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 73
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: button66_38
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 113
+        width: 123
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: button66_39
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 85
+        width: 123
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: button66_40
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 57
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: button66_41
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 57
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: button66_42
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 57
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: button66_43
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 57
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: button66_44
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 57
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: button66_45
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 57
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: button66_46
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 57
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: button66_47
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 57
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: button66_48
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 49
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: button66_49
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 49
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: button66_50
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 49
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: button66_51
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 49
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: button66_52
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 49
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: button66_53
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 49
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: button66_54
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 49
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: button66_55
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 47
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: button66_56
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 49
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: button66_57
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 49
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
